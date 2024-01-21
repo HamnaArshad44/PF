@@ -1,0 +1,12 @@
+Name: ameer arshad
+Age: 11
+Matric Marks: 11
+Fsc Marks: 11
+ecat Marks: 11
+
+Name: sam
+Age: 22
+Matric Marks: 22
+Fsc Marks: 22
+ecat Marks: 22
+

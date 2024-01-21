@@ -1,0 +1,6 @@
+Name: John
+Admission Number: 900
+Percentage: 75
+Name: hamna
+Admission Number: 333
+Percentage: 80
